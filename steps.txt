@@ -1,0 +1,14 @@
+import csv
+write csv
+read csv/json
+data prepare (tuple -> append in list )
+built connection between database and python
+create table 
+cur.execute 
+insert values (hardcoded / format specifier)
+cur.execute
+"select * from table_name"
+cur.execute 
+variable = fetchall()
+print(variable)
+connection closed
